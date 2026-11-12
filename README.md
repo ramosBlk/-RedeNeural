@@ -10,7 +10,7 @@ NumPy; o Scikit-Learn é usado para carregar, dividir e padronizar os dados.
 - NumPy
 - Scikit-Learn
 
-Instale as dependências e execute:
+Instale as dependências e execute
 
 ```bash
 py -m pip install -r requirements.txt
