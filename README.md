@@ -34,3 +34,11 @@ conjunto de teste.
 
 Pesos são inicializados com He; a camada escondida usa ReLU e a saída usa
 Softmax numericamente estável. A perda é entropia cruzada categórica.
+
+## Resultado obtido
+
+Na execução realizada, após 1000 épocas de treinamento, a perda diminuiu de
+1,3296 para 0,0736. No conjunto de teste, com 30 amostras, o modelo obteve
+96,67% de acurácia, classificando corretamente 29 amostras.
+
+![Terminal e resultado da execução](assets/terminal.png)
